@@ -153,7 +153,19 @@ cargo_kit_cargo = [
 #define syr_w_r ["CUP_arifle_AKMS_Early","CUP_arifle_AK47_Early","CUP_arifle_AKS","CUP_arifle_TYPE_56_2_Early","CUP_arifle_AKM_Early"]
 #define syr_a_r ["CUP_30Rnd_762x39_AK47_M","CUP_30Rnd_762x39_AK47_M","CUP_30Rnd_762x39_AK47_M","CUP_30Rnd_762x39_AK47_M","CUP_30Rnd_762x39_AK47_M"]
 
-
+kit_syr_random = [
+"kit_syr_r"
+,"kit_syr_r"
+,"kit_syr_rpg26"
+,"kit_syr_mg"
+,"kit_syr_r"
+,"kit_syr_ar"
+,"kit_syr_r"
+,"kit_syr_gr"
+,"kit_syr_r"
+,"kit_syr_mm"
+,"kit_syr_r"
+];
 kit_syr_r = [
 	["<EQUIPEMENT >>  ",syr_u,syr_v,"",syr_h,""],
 	["<PRIMARY WEAPON >>  ",syr_w_r,syr_a_r,["","","",""]],
