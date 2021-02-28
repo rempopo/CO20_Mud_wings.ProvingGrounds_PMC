@@ -62,8 +62,8 @@
 #define spec_w_r ["rhs_weap_m4a1_d_mstock_grip2","rhs_weap_m4a1_d_grip2","rhs_weap_m4a1_blockII_grip2_d","rhs_weap_m4a1_blockII_grip2","rhs_weap_m4_carryhandle_mstock_grip2","rhs_weap_m4a1_blockII_grip2_KAC","rhs_weap_hk416d145_d","rhs_weap_hk416d145","rhs_weap_mk18","rhs_weap_mk18_KAC_bk","rhs_weap_mk18_d","rhs_weap_mk18_KAC_d"]
 #define spec_a_r ["CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP"]
 
-#define spec_w_ar ["CUP_lmg_Mk48_tan","CUP_lmg_Mk48","CUP_lmg_Mk48_nohg_des","CUP_lmg_Mk48_nohg_tan","CUP_lmg_Mk48_des"]
-#define spec_a_ar ["CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M"]
+#define spec_w_ar ["CUP_lmg_Mk48_tan","CUP_lmg_Mk48_nohg_des","CUP_lmg_Mk48_nohg_tan","CUP_lmg_Mk48_des"]
+#define spec_a_ar ["CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M","CUP_100Rnd_TE4_LRT4_Green_Tracer_762x51_Belt_M"]
 
 #define spec_w_gr ["rhs_weap_hk416d145_m320","rhs_weap_m4a1_blockII_M203","rhs_weap_mk18_m320","rhs_weap_m4a1_m203s_d","rhs_weap_m4a1_blockII_M203_d"]
 #define spec_a_gr ["CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP","CUP_30Rnd_556x45_PMAG_QP"]
