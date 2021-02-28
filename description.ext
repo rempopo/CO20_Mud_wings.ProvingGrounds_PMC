@@ -88,7 +88,7 @@ class Params
 	{
 		title = "     Override Skill";
 		values[] = {0,1,2};
-		default = 0;
+		default = 2;
 		texts[] = {
 			"No"
 			, "General"
@@ -105,7 +105,7 @@ class Params
 	{
 		title = "          Skill (Complex): Accuracy (%)";
 		values[] = {10,20,30,40,45,50,55,60,65,70,75,80,85,90,95,100};
-		default = 80;
+		default = 60;
 	};
 	class par_dynai_skillAimSpeed
 	{
